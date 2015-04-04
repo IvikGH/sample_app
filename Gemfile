@@ -20,6 +20,7 @@ end
 group :test do
   gem 'selenium-webdriver', '2.35.1'
   gem 'capybara', '2.2.0'
+  gem 'factory_girl_rails'
 
   # Linux: раскомментируйте эти строки.
   gem 'libnotify', '0.8.0'
